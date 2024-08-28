@@ -1,2 +1,2 @@
-# StarSprites-mudado-por-mim
-alterações do StarSprite
+# StarSprites
+Jogo Acadêmico para iniciar na Unity 2D 
